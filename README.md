@@ -1,9 +1,30 @@
-<h2 align="left">Hi 👋! My name is Prince Prajapati and I'm a Full-stack developer, from India</h2>
+<h1 align="center">Hi 👋, I'm Prince Prajapati</h1>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 ###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/76d3c7c5cab9968124d668907dadf730d6536031a2f3c9722152ce827039be3f/68747470733a2f2f692e6962622e636f2f666b6e5163716a2f34303735322e6a7067"  />
 
+###
+- 🔭 I’m currently working on [IBlog]({#Project Url#})
+
+- 🌱 I’m currently learning **Angular 17, Flutter , Master Computer Application**
+
+- 👯 I’m looking to collaborate on [Mundra ERP]({#Project Url#})
+
+- 🤝 I’m looking for help with [HRMS 3.0]({#Project Url#})
+
+- 👨‍💻 All of my projects are available at [https://princeprajapati106.github.io/IPortfolio/](https://princeprajapati106.github.io/IPortfolio/)
+
+- 📝 I regularly write articles on [{#Blog URL#}]({#Blog URL#})
+
+- 💬 Ask me about **.NET Core, C#, Flutter, Angular, Sql, Oracle,**
+
+- 📫 How to reach me **exysyntex@gmail.com**
+
+- 📄 Know about my experiences [https://princeprajapati106.github.io/IPortfolio/assets/img/Prince_Prajapati_Resume.pdf](https://princeprajapati106.github.io/IPortfolio/assets/img/Prince_Prajapati_Resume.pdf)
+
+- ⚡ Fun fact **I think I'm #Include<Someone.Emotionally>**
 ###
 
 <div align="left">
